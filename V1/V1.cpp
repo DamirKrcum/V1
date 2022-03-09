@@ -1,6 +1,7 @@
+﻿// Rjesenje - Damir Krčum
+
 #include <iostream>
 using namespace std;
-
 //Z0.1
 char* AlocirajIKopiraj(const char* tekst) {
 	if (tekst == nullptr)
